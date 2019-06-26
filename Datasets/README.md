@@ -5,7 +5,7 @@
 
     - [GLUE](https://gluebenchmark.com/leaderboard/)
     
-    |                             Task                             |                         Type                          | train | test | full name                              |                           remarks                            |
+    |                             Task                             |                 Type               | train | test |         full name                        |                           remarks                            |
     | :----------------------------------------------------------: | :---------------------------------------------------: | :---: | :--: | -------------------------------------- | :----------------------------------------------------------: |
     |     [MNLI](http://www.nyu.edu/projects/bowman/multinli/)     |              Natural language inference               | 392k  |  -   | Multi-Genre Natural Language Inference |       文本蕴含任务，在给定前提下，需要判断假设是否成立       |
     | [QQP](https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs) | Semantic textual similarity/Paraphrase identification | 363k  |  -   | Quora Question Pairs                   |                 两个句子是否语义一致，二分类                 |
