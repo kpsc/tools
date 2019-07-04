@@ -27,7 +27,7 @@
 
     - [deep learning models](https://github.com/rasbt/deeplearning-models) 收集了各种深度学习模型结构的代码实现
 
-  
+
 - ### GAN
 
     - [gan-story](https://blog.floydhub.com/gans-story-so-far/) 记录整个GAN的历程，一些比较突出的GAN
@@ -64,3 +64,4 @@
 
 - [ItChat](https://github.com/littlecodersh/ItChat), 微信个人号接口、微信机器人及命令行微信
 - [ChatterBot](https://github.com/gunthercox/ChatterBot), 开源聊天机器人
+- [ai-chatbot-framework](https://github.com/alfredfrancis/ai-chatbot-framework/)

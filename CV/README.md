@@ -13,7 +13,7 @@
 - Mask R-CNN [paper](<https://arxiv.org/abs/1703.06870>)&[github](<https://github.com/matterport/Mask_RCNN>)
 
 - [Learning Data Augmentation Strategies for Object Detection](<https://arxiv.org/abs/1906.11172>) ([github](<https://github.com/tensorflow/tpu/tree/master/models/official/detection>))
-- [Cascade R-CNN](<https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247487486&idx=1&sn=dcaca7b7b1122a4aeac0efe8bf9571c4&chksm=96f37daaa184f4bc46c9281685004db4404b254040abd490144f6ab492a82e0c415aab782368&mpshare=1&scene=1&srcid=#rd>)
+- [Cascade R-CNN](https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247487486&idx=1&sn=dcaca7b7b1122a4aeac0efe8bf9571c4&chksm=96f37daaa184f4bc46c9281685004db4404b254040abd490144f6ab492a82e0c415aab782368&mpshare=1&scene=1&srcid=#rd)
 
 ## Tools
 

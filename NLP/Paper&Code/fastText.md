@@ -32,8 +32,8 @@
    
    # test
    model.predict(sentence) # 预测单独一个句子的类别及其分类概率
-   result = fasttext.test('data.test.txt') # 计算整体的precision/recall
-   result = fasttext.test_label('data.test.txt') # 计算每个类别的precision/recall
+   result = model.test('data.test.txt') # 计算整体的precision/recall
+   result = model.test_label('data.test.txt') # 计算每个类别的precision/recall
    ```
 
    

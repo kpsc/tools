@@ -1,6 +1,8 @@
 ## Awesome NLP
 
+- elmo [paper](<https://arxiv.org/pdf/1802.05365.pdf>) [github](<https://github.com/allenai/bilm-tf>)
 - bert-2018    [paper](https://arxiv.org/pdf/1810.04805.pdf)  [code-tf](https://github.com/google-research/bert)  [code-pytorch](https://github.com/huggingface/pytorch-pretrained-BERT) 
+- mt-dnn [github](<https://github.com/namisan/mt-dnn>)
 
 
 
@@ -16,7 +18,7 @@
 
 ## Semantic Textual similarity
 
-- StarSpace    [paper](<https://arxiv.org/pdf/1709.03856.pdf>) & [github](<https://github.com/facebookresearch/StarSpace#building-starspace>)
+- StarSpace    [paper](<https://arxiv.org/pdf/1709.03856.pdf>) & [github](https://github.com/facebookresearch/StarSpace#building-starspace)
 
 
 
@@ -43,6 +45,7 @@
 
 ## Text Classification
 
+- [text_classification](<https://github.com/brightmart/text_classification>) 收集了一些常用的文本分类方法
 
 
 

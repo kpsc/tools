@@ -1,6 +1,8 @@
 
 # DataSet
 
+[数据竞赛](<https://github.com/Smilexuhc/Data-Competition-TopSolution>)
+
 - ### NLP
 
     - [GLUE](https://gluebenchmark.com/leaderboard/)
@@ -18,7 +20,7 @@
     | [WNLI](https://cs.nyu.edu/faculty/davise/papers/WinogradSchemas/WS.html) |              Natural language inference               |   -   |  -   | Winograd Natural Language Inference    |                         文本蕴含任务                         |
     
     - [SentEval](https://github.com/facebookresearch/SentEval) evaluation toolkit for sentence embeddings, and some corpors
-    - 
+    - [ChineseSTS](<https://github.com/IAdmireu/ChineseSTS>) 中文文本相似
 
 
 
