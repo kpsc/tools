@@ -31,6 +31,7 @@
 ## Machine Translation
 
 - [open-NMT](<http://opennmt.net/>)
+- [tf-nmt](https://github.com/tensorflow/nmt)
 - [Learning phrase representations using RNN encoder-decoder for statistical machine translation](<https://www.aclweb.org/anthology/D14-1179>) 2014
 - [Sequence to sequence learning with neural networks](<https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf>) 2014
 - [Neural Machine Translation By Jointly Learning to Align and Translate](<https://arxiv.org/abs/1409.0473>) 2016

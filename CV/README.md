@@ -5,11 +5,11 @@
 ## ImageNet
 
 - ResNet
-- 
+- DenseNet
 
 ## Object Detection
 
-- Fast R-CNN [github](<https://github.com/rbgirshick/fast-rcnn>)
+- Faster R-CNN [github](<https://github.com/rbgirshick/fast-rcnn>)
 - Mask R-CNN [paper](<https://arxiv.org/abs/1703.06870>)&[github](<https://github.com/matterport/Mask_RCNN>)
 
 - [Learning Data Augmentation Strategies for Object Detection](<https://arxiv.org/abs/1906.11172>) ([github](<https://github.com/tensorflow/tpu/tree/master/models/official/detection>))
@@ -19,7 +19,7 @@
 
 - [mmdetection](https://github.com/open-mmlab/mmdetection)
 - [Pythia](https://github.com/facebookresearch/pythia), 基于Pytorch的视觉和NLP研究工具
-- 
+- [RetinaFace](<https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247487588&idx=1&sn=069dcd37a3182b039c7ff658e413fc40&chksm=96f36230a184eb2659d4a94eec6c41d4250ff8a1bcc2be909a16584d2fdece984060b150b3ed&mpshare=1&scene=1&srcid=#rd>) 人脸检测
 
 
 ## DataSets
