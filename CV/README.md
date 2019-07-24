@@ -4,12 +4,14 @@
 
 ## ImageNet
 
+- VGGNet
+- Inception [v1](http://arxiv.org/abs/1409.4842) [v2](http://arxiv.org/abs/1502.03167) [v3](http://arxiv.org/abs/1512.00567) [v4](http://arxiv.org/abs/1602.07261)
 - ResNet
 - DenseNet
 
 ## Object Detection
 
-- Faster R-CNN [github](<https://github.com/rbgirshick/fast-rcnn>)
+- Fast R-CNN [github](<https://github.com/rbgirshick/fast-rcnn>)
 - Mask R-CNN [paper](<https://arxiv.org/abs/1703.06870>)&[github](<https://github.com/matterport/Mask_RCNN>)
 
 - [Learning Data Augmentation Strategies for Object Detection](<https://arxiv.org/abs/1906.11172>) ([github](<https://github.com/tensorflow/tpu/tree/master/models/official/detection>))
@@ -18,6 +20,7 @@
 ## Tools
 
 - [mmdetection](https://github.com/open-mmlab/mmdetection)
+- [Detection](<https://github.com/facebookresearch/Detectron>)
 - [Pythia](https://github.com/facebookresearch/pythia), 基于Pytorch的视觉和NLP研究工具
 - [RetinaFace](<https://mp.weixin.qq.com/s?__biz=MzIwMTE1NjQxMQ==&mid=2247487588&idx=1&sn=069dcd37a3182b039c7ff658e413fc40&chksm=96f36230a184eb2659d4a94eec6c41d4250ff8a1bcc2be909a16584d2fdece984060b150b3ed&mpshare=1&scene=1&srcid=#rd>) 人脸检测
 

@@ -3,6 +3,10 @@
 - elmo [paper](<https://arxiv.org/pdf/1802.05365.pdf>) [github](<https://github.com/allenai/bilm-tf>)
 - bert-2018    [paper](https://arxiv.org/pdf/1810.04805.pdf)  [code-tf](https://github.com/google-research/bert)  [code-pytorch](https://github.com/huggingface/pytorch-pretrained-BERT) 
 - mt-dnn [github](<https://github.com/namisan/mt-dnn>)
+- transformer-xl, [code](https://github.com/kimiyoung/transformer-xl)
+- xlnet, [code](https://github.com/zihangdai/xlnet)
+- [Larget Memory Layers with Product Keys](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652049263&idx=2&sn=32b5629eb8fd0619cc4d6fad9a854ef9&chksm=f1207b9ec657f288b392a0d49932211de93372dc133596d4cd5cae9aa1a9f9a83690b57beb98&scene=0&xtrack=1#rd) [paper](https://arxiv.org/pdf/1907.05242.pdf)
+- 
 
 
 

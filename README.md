@@ -65,3 +65,4 @@
 - [ItChat](https://github.com/littlecodersh/ItChat), 微信个人号接口、微信机器人及命令行微信
 - [ChatterBot](https://github.com/gunthercox/ChatterBot), 开源聊天机器人
 - [ai-chatbot-framework](https://github.com/alfredfrancis/ai-chatbot-framework/)
+- [Awesome-Chatbot](https://github.com/fendouai/Awesome-Chatbot)
