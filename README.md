@@ -66,3 +66,9 @@
 - [ChatterBot](https://github.com/gunthercox/ChatterBot), 开源聊天机器人
 - [ai-chatbot-framework](https://github.com/alfredfrancis/ai-chatbot-framework/)
 - [Awesome-Chatbot](https://github.com/fendouai/Awesome-Chatbot)
+
+
+
+# Other
+
+- [python 算法集](<https://mp.weixin.qq.com/s/i8IeqdJW_fGtBodb8SJaKw>)

@@ -18,10 +18,11 @@
 2. base
 
    ```python
+   # 查看所有可用的 env:   gym.envs.registry.all()
    import gym
    env = gym.make('[game name]')
    env.reset()
-   observation, reward, done, info = env.step('action')
+   observation, reward, done, info = env.step(env.action_space.sample())
    env.render()
    
    env.action_space
