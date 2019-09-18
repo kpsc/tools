@@ -6,6 +6,7 @@
    # 安装各种环境
    git clone https://github.com/openai/gym.git
    cd gym
+   # pip install -e .    安装 gym
    pip install -e '.[atari]'
    pip install -e '.[board_game]'
    pip install -e '.[box2d]'

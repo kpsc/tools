@@ -72,3 +72,5 @@
 # Other
 
 - [python 算法集](<https://mp.weixin.qq.com/s/i8IeqdJW_fGtBodb8SJaKw>)
+- [Data Augmentation](https://mp.weixin.qq.com/s?__biz=MzU4NTY4Mzg1Mw==&mid=2247485472&idx=2&sn=a0ca65f88af5e9686efe9972dad9fb44&chksm=fd878ec2caf007d4e8b05378347549f9ade45fc8c3427d58d5d9f5c74154b0dfc09fd7c2087b&mpshare=1&scene=1&srcid=&sharer_sharetime=1566829719235&sharer_shareid=ea858e8c591aa98c750152f703babf33#rd)
+

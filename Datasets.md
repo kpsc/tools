@@ -1,7 +1,11 @@
 
 # DataSet
 
+
+
 [数据竞赛](<https://github.com/Smilexuhc/Data-Competition-TopSolution>)
+
+[Machine Learning Datasets](https://www.datasetlist.com/)
 
 - ### NLP
 
@@ -21,6 +25,7 @@
     
     - [SentEval](https://github.com/facebookresearch/SentEval) evaluation toolkit for sentence embeddings, and some corpors
     - [ChineseSTS](<https://github.com/IAdmireu/ChineseSTS>) 中文文本相似
+    - [DMQA](https://cs.nyu.edu/~kcho/DMQA/)  英文阅读理解
 
 
 
@@ -37,3 +42,5 @@
     - 
 
 - ### Chatbot
+
+    - [data collect](https://github.com/candlewill/Dialog_Corpus)

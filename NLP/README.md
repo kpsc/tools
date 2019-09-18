@@ -44,7 +44,7 @@
 
 ## Named Entity Recognition
 
-
+- [survey](https://zhuanlan.zhihu.com/p/56085975)
 
 
 
