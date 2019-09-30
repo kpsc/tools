@@ -26,7 +26,6 @@
     - [SentEval](https://github.com/facebookresearch/SentEval) evaluation toolkit for sentence embeddings, and some corpors
     - [ChineseSTS](<https://github.com/IAdmireu/ChineseSTS>) 中文文本相似
     - [DMQA](https://cs.nyu.edu/~kcho/DMQA/)  英文阅读理解
-    - [对话系统语料](https://github.com/candlewill/Dialog_Corpus)
 
 
 
@@ -44,4 +43,5 @@
 
 - ### Chatbot
 
-    - [data collect](https://github.com/candlewill/Dialog_Corpus)
+    - [对话系统语料](https://github.com/candlewill/Dialog_Corpus)
+    - [任务型对话数据集](https://github.com/AtmaHou/Task-Oriented-Dialogue-Dataset-Survey)
