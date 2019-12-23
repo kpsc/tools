@@ -56,6 +56,7 @@
     - bert, [paper](https://arxiv.org/pdf/1810.04805.pdf), [code-tf](https://github.com/google-research/bert), [code-pytorch](https://github.com/huggingface/pytorch-pretrained-BERT) 
     - transformer-xl, [code](https://github.com/kimiyoung/transformer-xl)
     - xlnet, [code](https://github.com/zihangdai/xlnet)
+    - [ALBERT](https://arxiv.org/pdf/1909.11942.pdf)  [中文](https://github.com/brightmart/albert_zh)
     - [awesome-bert](https://github.com/Jiakui/awesome-bert)
     - [bert-as-service](https://github.com/hanxiao/bert-as-service), Get feature with bert and google chinese model
 
