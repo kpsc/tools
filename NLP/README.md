@@ -1,3 +1,12 @@
+## Resource
+
+- [NLP-progress](https://github.com/sebastianruder/NLP-progress)
+- [Awesome-Chinese-NLP](https://github.com/crownpku/Awesome-Chinese-NLP)
+- [ChineseGLUE](https://github.com/ChineseGLUE/ChineseGLUE)
+- [CLUE](https://github.com/CLUEbenchmark/CLUE)
+
+
+
 ## Awesome NLP
 
 - elmo [paper](<https://arxiv.org/pdf/1802.05365.pdf>) [github](<https://github.com/allenai/bilm-tf>)
