@@ -5,8 +5,8 @@
     - [pkuseg](https://github.com/lancopku/pkuseg-python)
     - [funNLP](https://github.com/fighting41love/funNLP)    
     - [SMRCToolkit](https://github.com/sogou/SMRCToolkit)  搜狗阅读理解工具箱
-    - [中文NLP相关资料](https://github.com/crownpku/Awesome-Chinese-NLP)
-    - [NLP发展进程](https://github.com/sebastianruder/NLP-progress)
+    - [Awesome-Chinese-NLP](https://github.com/crownpku/Awesome-Chinese-NLP)  中文NLP相关资料
+    - [NLP-progress](https://github.com/sebastianruder/NLP-progress)  NLP发展进程
 
 - ### CV
 
